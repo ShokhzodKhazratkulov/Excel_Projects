@@ -38,25 +38,25 @@ Based on the analysis, the following insights were derived:
   - Europe showed a steady increase in units sold over the years.
   - Asia had variable sales but saw a peak in recent years.
 
-  ![Stacked Column Chart - Units Sold by Region](/assets/Picture1.png)
+  ![Stacked Column Chart - Units Sold by Region](C:\Users\khazr\GitHub reposts\Excel_Projects\Conter Strike Sales Project\assets\Picture1.png)
 
 - **Total Revenue by Platform**:
   - The PC platform generated consistent revenue each year.
   - There were notable spikes in revenue in 2015 and 2018.
 
-  ![Clustered Column Chart - Revenue by Platform](/assets/Picture2.png)
+  ![Clustered Column Chart - Revenue by Platform](assets\Picture2.png)
 
 - **Average Units Sold per Region**:
   - North America had the highest average units sold.
   - Europe followed closely, with Asia showing the lowest average.
 
-  ![Bar Chart - Average Units Sold per Region](/assets/Picture3.png)
+  ![Bar Chart - Average Units Sold per Region](assets\Picture3.png)
 
 - **Revenue Share in 2019**:
   - North America held the largest revenue share in 2019.
   - Europe and Asia contributed significantly, but less than North America.
 
-  ![Pie Chart - Revenue Share in 2019](/assets/Picture4.png)
+  ![Pie Chart - Revenue Share in 2019](assets\Picture4.png)
 
 ## What I Learned
 Through this project, I learned:
